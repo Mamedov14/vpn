@@ -7,6 +7,7 @@ spring:
     password: ${SPRING_DATASOURCE_PASSWORD}
 
 
+
 telegram:
   bot:
     vpn:
